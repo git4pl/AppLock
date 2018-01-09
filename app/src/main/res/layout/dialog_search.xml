@@ -49,6 +49,7 @@
             android:hint="搜索应用"
             android:paddingLeft="10dp"
             android:paddingRight="10dp"
+            android:textColor="@color/black"
             android:textColorHint="#9F9F9F"
             android:textSize="14sp"/>
     </RelativeLayout>

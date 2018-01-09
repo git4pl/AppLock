@@ -13,6 +13,7 @@
     <color name="white_20">#33ffffff</color><!--20透明度-->
     <color name="white_10">#19ffffff</color><!--20透明度-->
     <color name="white_30">#4Dffffff</color><!--30透明度-->
+    <color name="black">#FF000000</color>
     <color name="tr_black10">#1a000000</color><!--10透明度-->
     <color name="tr_black50">#80000000</color><!--50透明度-->
     <color name="line_color">#eaeaea</color>
